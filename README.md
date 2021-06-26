@@ -1,8 +1,9 @@
 ### Hi there, I'm Patrícia Vitor.
 
-#### I'm a Mathematian and web developer who has many different interests.
-- :brazil: I live in Campinas, São Paulo.
-- 🌱 I’m currently learning almost everything.
+#### I'm a Mathematician and Web Developer who has many different interests.
+
+- I'm Brazilian and I live in Campinas, São Paulo.
+- I’m currently learning almost everything.
 
 <!-- Statistics -->
 <div>
