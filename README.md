@@ -16,6 +16,8 @@
     
 </div> <!-- End div Statistics -->
 
+  <br>
+  
 <!-- Technologies -->
 <div style="display: inline_block"><br>
   
@@ -65,6 +67,8 @@
 </div> <!-- End div Technologies -->
 
   ##
+
+  <br>
 
 <!-- Contact -->
 <div>
