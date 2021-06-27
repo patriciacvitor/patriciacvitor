@@ -20,7 +20,7 @@
 <!-- Statistics - Most Used Languages -->
 <div>
   <!-- My Most Used Languages - Compact Layout -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciacvitor&layout=compact&langs_count=10&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciacvitor&layout=compact&langs_count=16&theme=algolia"/>
 </div> <!-- End div Statistics -->
 
   <br>
