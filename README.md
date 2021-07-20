@@ -3,7 +3,8 @@
 #### I'm a Mathematician and Web Developer who has many different interests.
 
 - I'm Brazilian and I live in Campinas, São Paulo.
-- I’m currently learning almost everything.
+- I’m currently pursuing a bachelor's degree in Applied and Computational Mathematics.
+- I love learning and reading about many different subjects.
 
   <br>
 
