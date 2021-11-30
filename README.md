@@ -69,6 +69,12 @@
   <!-- Python -->
   <img align="center" alt="Python" height="50" width="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
+  <!-- C -->
+  <img align="center" alt="C" height="50" width="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  
+  <!-- Java -->
+  <img align="center" alt="Java" height="50" width="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
   <!-- GIF -->
   <img align="right" alt="gif" height="200" width="" src="https://c.tenor.com/b6PLDyupHEUAAAAj/espresso-cappuccino.gif">
   
